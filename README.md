@@ -38,3 +38,10 @@ pip install -r requirements.txt
 Run the downloader directly:
 
 python Downloader.py
+
+# 🎁 Donation
+Wenn dir meine Projekte gefallen und du mich unterstützen möchtest, kannst du mir hier etwas dalassen:
+
+https://www.tipeeestream.com/breckztv/donation
+
+Jede Unterstützung hilft mir, weiterhin coole Inhalte und Projekte zu erstellen – vielen Dank! 🙌
